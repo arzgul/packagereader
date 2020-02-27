@@ -11,5 +11,5 @@ Creates the following files and directories (deleting any existing in
 *index.htm*<br/>
 *style.css*<br/>
 *packages/*<br/>
-*packages/\*.htm*<br/> (one for each package installed)
+*packages/\*.htm* (one for each package installed)<br/> 
 *packages/style.css*<br/>
