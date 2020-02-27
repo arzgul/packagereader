@@ -7,9 +7,9 @@ Requires Python 3.
 
 Usage instructions: Run and follow the on-screen instructions (if any);
 Creates the following files and directories (deleting any existing in
-'packages' directory and overwriting others):
-index.htm
-style.css
-packages/
-packages/*.htm (one for each package installed)
-packages/style.css
+'packages' directory and overwriting others):<br/>
+*index.htm*<br/>
+*style.css*<br/>
+*packages/*<br/>
+*packages/\*.htm*<br/> (one for each package installed)
+*packages/style.css*<br/>
